@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj141020&label=Profile%20views&color=0e75b6&style=flat" alt="raj141020" /> </p>
 
-👨‍💻 All of my projects are available at [linkedin.com/in/raj-nagwanshi-19698b24a](linkedin.com/in/raj-nagwanshi-19698b24a)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/raj-nagwanshi-19698b24a/](https://www.linkedin.com/in/raj-nagwanshi-19698b24a/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj141020" alt="raj141020" /></a> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rajnagwanshi1410@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
