@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/raj-nagwanshi-19698b24a/](https://www.linkedin.com/in/raj-nagwanshi-19698b24a/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj141020" alt="raj141020" /></a> </p>
-
 - 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **Back End and Front End development**
