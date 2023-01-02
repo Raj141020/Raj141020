@@ -1,4 +1,3 @@
-![logo](https://github.com/Raj141020/Raj141020/blob/main/istockphoto-1226985345-612x612.jpg)
 <h1 align="center">Hi 👋, I'm Raj Nagwanshi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
