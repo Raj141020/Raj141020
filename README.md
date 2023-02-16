@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Raj Nagwanshi</h1>
-<h3 align="center">A passionate Backened Developer from India</h3>
+<h3 align="center">I'm a student and aspiring web developer with a passion for creating beautiful and functional web applications. My skills include HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, AWS S3, Redis, and Postman. I'm currently seeking opportunities to apply my skills and gain real-world experience in the field of web development.</h3>
 
 <img align="right" alt="coding" width="400" src ="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj141020&label=Profile%20views&color=0e75b6&style=flat" alt="raj141020" /> </p>
 
-- 👨‍💻 All of my works are available at [https://www.linkedin.com/in/raj-nagwanshi-19698b24a/](https://www.linkedin.com/in/raj-nagwanshi-19698b24a/)
 
 - 🔭 I’m currently working on **My technical skills**
 
