@@ -6,15 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj141020&label=Profile%20views&color=0e75b6&style=flat" alt="raj141020" /> </p>
 
 
-- 🔭 I’m currently working on **My technical skills**
+- 🔭 I’m currently working on **Dedicated to enhancing my technical skills, constantly learning and embracing new technologies for professional growth and excellence. Committed to the pursuit of technical mastery and staying ahead in the ever-evolving world of technology.**
 
-- 🌱 I’m currently learning **Front End development**
+- 🌱 Current Focus **I am currently expanding my knowledge in full-stack development, working on projects that combine both front-end and back-end technologies. I am eager to delve into the latest frameworks and tools to stay up to date with industry trends.**
 
-- 👯 I’m looking to collaborate on **Progressive Institute**
+- 👯 I’m looking to collaborate on **Passionate and actively seeking job opportunities. Ready to bring my skills and dedication to contribute value to a forward-thinking organization. Open to exciting career prospects and new challenges.**
 
-- 📫 How to reach me **rajnagwanshi1410@gmail.com**
+- 📫 Let's Connect **I am always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me through [(https://www.linkedin.com/in/yourusername)](https://www.linkedin.com/in/rajnagwanshi/) to connect and engage in tech-related conversations. Let's innovate, learn, and build together!**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **In my spare time, I enjoy experimenting with new recipes and consider myself a bit of a foodie. 🍽️**
 
 <br/>
 
