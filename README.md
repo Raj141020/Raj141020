@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Nagwanshi</h1>
-<h3 align="center">Hey there! I'm a data enthusiast on a mission to uncover hidden gems in complex datasets—think of me as the treasure hunter of the data world! Armed with my trusty tools of data analysis, statistics, and machine learning, I love transforming raw data into stories that even your cat would want to read. In this data-driven universe, I firmly believe that if you can’t explain your findings, you might as well be speaking Klingon! I'm always on the lookout for new methodologies to sprinkle into my data soup. So, buckle up and join me on this wild ride to unleash the power of data—no spandex required!</h3>
+<h3 align="center">I’m a data enthusiast and treasure hunter in the data world, uncovering hidden gems in complex datasets! With my trusty tools in data analysis, statistics, and machine learning, I transform raw data into captivating stories. If you can’t explain your findings, you might as well be speaking Klingon! Join me on this exciting journey to unleash the power of data—no spandex required!</h3>
 
 <img align="right" alt="coding" width="400" src ="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
