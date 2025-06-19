@@ -16,7 +16,7 @@
 👯 I’m always eager to collaborate with forward-thinking teams and contribute to impactful projects.  
 Open to new opportunities and challenges where I can apply my analytical mindset, creativity, and dedication to add real value.
 
-📫 Let’s connect! Reach out to me through **[LinkedIn - Raj]([https://www.linkedin.com/in/raj](https://www.linkedin.com/in/rajnagwanshi/))** to collaborate on data-driven projects or discuss exciting ideas.  
+📫 Let’s connect! Reach out to me through **[LinkedIn - Raj](https://www.linkedin.com/in/rajnagwanshi/)** to collaborate on data-driven projects or discuss exciting ideas.  
 Let’s innovate, learn, and build together!
 
 ---
