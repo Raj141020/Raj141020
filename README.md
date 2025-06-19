@@ -5,17 +5,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj141020&label=Profile%20views&color=0e75b6&style=flat" alt="raj141020" /> </p>
 
+## 👨‍💻 About Me
 
-- 🔭 **I’m dedicated to honing my technical skills and embracing new technologies to fuel my professional growth and excellence.
-  Committed to achieving technical mastery, I strive to stay ahead in the ever-evolving world of technology,
-  turning challenges into opportunities for innovation and progress.**
+🔍 **Data Enthusiast | Insight Seeker | Problem Solver**
 
-- 👯 **I’m passionate about my work and actively seeking opportunities to apply my skills and dedication in a forward-thinking organization.
-  I’m open to exciting projects and new challenges that allow me to contribute value and drive innovation.**
+🚀 I’m passionate about transforming data into actionable insights that drive smarter decisions. With a commitment to continuous learning, I actively hone my technical skills and embrace modern tools to stay ahead in the evolving world of data and analytics.
 
-- 📫 **I am always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me through [Raj](https://www.linkedin.com/in/rajnagwanshi/) to connect and engage in tech-related conversations. Let's innovate, learn, and build together!**
+📊 From cleaning messy datasets to uncovering trends and building dashboards, I thrive on turning raw data into meaningful stories that fuel innovation and progress.
 
-- ⚡ **In my spare time, I enjoy experimenting with new recipes and consider myself a bit of a foodie. 🍽️ I'm also a sketcher, bringing ideas to life on paper when I'm not immersed in data or tech. 🎨**
+👯 I’m always eager to collaborate with forward-thinking teams and contribute to impactful projects.  
+Open to new opportunities and challenges where I can apply my analytical mindset, creativity, and dedication to add real value.
+
+📫 Let’s connect! Reach out to me through **[LinkedIn - Raj](https://www.linkedin.com/in/raj)** to collaborate on data-driven projects or discuss exciting ideas.  
+Let’s innovate, learn, and build together!
+
+---
+
+## ⚡ Fun Facts
+
+🍽️ I’m a curious foodie who enjoys experimenting with new recipes in my spare time.  
+🎨 I love sketching — bringing ideas to life on paper when I’m not immersed in data.  
+📚 I’m always learning — exploring new tools, trends, and technologies in the data world.
 
 <br/>
 
