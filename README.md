@@ -6,9 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj141020&label=Profile%20views&color=0e75b6&style=flat" alt="raj141020" /> </p>
 
 
-- 🔭 **I’m dedicated to honing my technical skills and embracing new technologies to fuel my professional growth and excellence. Committed to achieving technical mastery, I strive to stay ahead in the ever-evolving world of technology, turning challenges into opportunities for innovation and progress.**
+- 🔭 **I’m dedicated to honing my technical skills and embracing new technologies to fuel my professional growth and excellence.
+  Committed to achieving technical mastery, I strive to stay ahead in the ever-evolving world of technology,
+  turning challenges into opportunities for innovation and progress.**
 
-- 👯 **I’m passionate about my work and actively seeking opportunities to apply my skills and dedication in a forward-thinking organization. I’m open to exciting projects and new challenges that allow me to contribute value and drive innovation.**
+- 👯 **I’m passionate about my work and actively seeking opportunities to apply my skills and dedication in a forward-thinking organization.
+  I’m open to exciting projects and new challenges that allow me to contribute value and drive innovation.**
 
 - 📫 **I am always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me through [Raj](https://www.linkedin.com/in/rajnagwanshi/) to connect and engage in tech-related conversations. Let's innovate, learn, and build together!**
 
