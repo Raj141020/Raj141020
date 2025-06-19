@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Nagwanshi</h1>
-<h3 align="center">I’m a data enthusiast and treasure hunter in the data world, uncovering hidden gems in complex datasets! With my trusty tools in data analysis, statistics, and machine learning, I transform raw data into captivating stories. If you can’t explain your findings, you might as well be speaking Klingon! Join me on this exciting journey to unleash the power of data—no spandex required!</h3>
+<h3 align="center">I’m a data enthusiast and treasure hunter in the data world, uncovering hidden gems in complex datasets! Armed with tools in data analysis, statistics, and machine learning, I turn raw data into compelling stories that drive real-world impact. Because if you can’t explain your findings clearly, you might as well be speaking Klingon.
+
+Join me on this journey to unleash the power of data — no spandex required!</h3>
 
 <img align="right" alt="coding" width="400" src ="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzMTg3NjAsIm5iZiI6MTc1MDMxODQ2MCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE5VDA3MzQyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiYjViMTYwMzgzZWExZDM3Mjc2ZmMxZmIyMzQyM2ZhZmIzNjFhYjA0MjdhMjkwOGJmMjQxNmMwNzFjNzJlNzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ceArMvwfRHpi13WVdZocQVwiPijD41osZ4g1wB8rQ6E">
 
